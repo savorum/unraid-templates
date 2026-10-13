@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommunityApplications>
+  <Profile><![CDATA[
+Savorum is a free, open-source recipe manager. Import recipes, organize books, plan meals, build shopping lists, and cook with timers. Print recipes or export them with photos in SREF.
+
+[Explore Savorum](https://savorum.app/) · [Installation guide](https://github.com/savorum/unraid-templates/blob/main/README.md) · [Get help](https://savorum.app/contact/)
+]]></Profile>
+  <Icon>https://raw.githubusercontent.com/savorum/unraid-templates/main/icon.png</Icon>
+  <WebPage>https://savorum.app/</WebPage>
+  <Forum>https://savorum.app/contact/</Forum>
+  <Photo>https://savorum.app/images/library-compact.webp</Photo>
+  <Photo>https://savorum.app/images/cooking.webp</Photo>
+</CommunityApplications>
