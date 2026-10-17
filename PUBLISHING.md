@@ -53,8 +53,7 @@ See the [submission help](https://ca.unraid.net/submit/help),
   `65532:65532`, and WebUI opens from another LAN device.
 - Confirm that **Show more settings** is collapsed. Test authentication after
   administrator creation and adding a variable from the configuration reference.
-- Open **Console** and run `savorum --help` in Bash. Check that startup creates
-  `.cache/savorum/typst` in appdata without a cache warning.
+- Open **Console** and run `su savorum`. Confirm that `savorum --help` works.
 - Add a recipe and photo. Restart, then recreate the container with the same
   appdata folder. Confirm the library persists and shutdown completes cleanly.
 - Back up to separate storage and restore into an empty test folder. Verify
